@@ -1,0 +1,3 @@
+/home/isadora-schwaab/Documentos/FPIFase3/build/CMakeFiles/DuckyVideo.dir
+/home/isadora-schwaab/Documentos/FPIFase3/build/CMakeFiles/edit_cache.dir
+/home/isadora-schwaab/Documentos/FPIFase3/build/CMakeFiles/rebuild_cache.dir
